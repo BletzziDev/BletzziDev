@@ -25,17 +25,17 @@ Building technology focused on cloud infrastructure, developer tools, and scalab
 
 ## Experience
 
-- 🌍 Freelance Software Engineer — Delivered solutions for clients worldwide  
-- 🏗️ Founder — Built and leading my own company  
-- ⚙️ Systems Engineer — Backend, infrastructure, and performance-focused development  
+- Freelance Software Engineer — Delivered solutions for clients worldwide  
+- Founder — Built and leading my own company  
+- Systems Engineer — Backend, infrastructure, and performance-focused development  
 
 ---
 
 ## Tech Stack
 
 **Languages**
-- Java (primary)
-- Kotlin
+- Java
+- Kotlin (primary)
 - TypeScript
 
 **Focus Areas**
