@@ -1,39 +1,71 @@
-# 👋 Olá! Eu sou o **Bletzzi**  
+# Rodrigo Quintanilha (Bletzzi)
 
-💻 Desenvolvedor apaixonado por criar soluções criativas e funcionais.  
-🎮 Focado em **plugins Minecraft (Bukkit/Spigot/Paper)** e também em desenvolvimento web moderno.  
-🚀 Sempre focando em softwares de alta performance e escalabilidade.
+**18 Years Old • Entrepreneur • Software Engineer**
 
 ---
 
-## ✨ Sobre mim  
-- 🔨 Atualmente trabalhando em **Projetos privados**  
-- 🎯 Experiência sólida com **Bukkit**, criando plugins sob medida para servidores Minecraft  
-- 🤝 Aceito encomendas via **Discord** → `Bletzzi`  
-- 🌍 Meu portfólio/site → [bletzzi.com](https://bletzzi.com)  
+## About
+
+I’m a software engineer and entrepreneur focused on building scalable, high-performance systems.
+
+I started programming at **13** with Java and have been deeply involved in backend engineering, infrastructure, and system design ever since.
+
+Today, I build products, infrastructure, and tools with a strong focus on performance, reliability, and long-term scalability.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## Company
 
-### 🚀 Linguagens
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+Founder of **Nasqui**  
+https://nasqui.com
 
-### ⚡ Frameworks & Ferramentas
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit-3C873A?style=for-the-badge&logo=minecraft&logoColor=white)
+Building technology focused on cloud infrastructure, developer tools, and scalable platforms.
 
 ---
 
-## 📬 Onde me encontrar  
-🌐 [**Site**](https://bletzzi.com)  
-💬 **Discord:** `Bletzzi`  
+## Experience
+
+- 🌍 Freelance Software Engineer — Delivered solutions for clients worldwide  
+- 🏗️ Founder — Built and leading my own company  
+- ⚙️ Systems Engineer — Backend, infrastructure, and performance-focused development  
 
 ---
 
-> ✨ *"Criando projetos a base de blocos."*  
+## Tech Stack
+
+**Languages**
+- Java (primary)
+- Kotlin
+- TypeScript
+
+**Focus Areas**
+- Backend Engineering
+- Distributed Systems
+- Cloud Infrastructure
+- Networking & Performance
+- Developer Tooling
+
+---
+
+## Philosophy
+
+- Build systems that scale from day one  
+- Optimize for performance and simplicity  
+- Own the stack, understand the internals  
+
+---
+
+## Current Focus
+
+- Cloud infrastructure and hosting systems  
+- Scalable backend architectures  
+- Developer platforms and automation  
+
+---
+
+## Contact
+
+Open to:
+- Business opportunities  
+- High-impact projects  
+- Technical collaborations  
